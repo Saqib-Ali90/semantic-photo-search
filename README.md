@@ -93,7 +93,8 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 Regards:
 Saqib Ali
-you can find me on Youtube and Facebook for demonstartion videos /@astrosaqi
+
+You can find me on Youtube and Facebook for demonstartion videos /@astrosaqi
 Youtube link: https://youtu.be/ISNI2HTmqeo
 
 <img width="858" height="625" alt="app SS3" src="https://github.com/user-attachments/assets/059dc736-7e82-4057-8b78-ba75642a8d08" />
