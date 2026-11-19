@@ -1,0 +1,7 @@
+*.pkl
+images/
+local_siglip_model/
+dist/
+build/
+*.spec
+__pycache__/
