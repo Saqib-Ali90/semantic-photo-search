@@ -94,3 +94,7 @@ This project is open-source and available under the [MIT License](LICENSE).
 Regards:
 Saqib Ali
 you can find me on Youtube and Facebook for demonstartion videos /@astrosaqi
+
+<img width="858" height="625" alt="app SS3" src="https://github.com/user-attachments/assets/059dc736-7e82-4057-8b78-ba75642a8d08" />
+<img width="852" height="619" alt="app SS2" src="https://github.com/user-attachments/assets/120881f2-90d9-41a4-96fe-715baf1b8e20" />
+<img width="1072" height="753" alt="app SS1" src="https://github.com/user-attachments/assets/25877880-fd19-4283-804f-3ddcef8258f5" />
