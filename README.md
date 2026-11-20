@@ -2,7 +2,7 @@
 
 A fast, 100% private desktop application built with Python and Tkinter that searches your local photo library using "natural language text", "reference images", or a "hybrid combination of both".
 
-Powered by local Vision-Language embedding models OpenAI's CLIP, all indexing and search operations happen completely offline on your PC—your personal photos never leave your device.
+Powered by local Vision-Language embedding models OpenAI's CLIP, and Google's SigLip model (separate pythod code) all indexing and search operations happen completely offline on your PC—your personal photos never leave your device.
 
 ---
 
